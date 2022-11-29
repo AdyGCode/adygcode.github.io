@@ -1,1 +1,0 @@
-# adygcode.github.io-
