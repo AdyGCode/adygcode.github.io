@@ -22,7 +22,7 @@ My career includes the following (not in order):
 
 ### Roles
 
-The roles I have performed in these positions include:
+In these positions, Adrian performed a variety of roles including:
 
 - Lecturer & Trainer
 - Front-End and Back-End Web Development
