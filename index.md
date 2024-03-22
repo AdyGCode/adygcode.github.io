@@ -7,8 +7,8 @@ This profile was started 2024-03-12.
 ## Education
 
 - Bachelor of Science (Hons) Computer Science
-  - Graduate Diploma of Education (Training and Development)
-  - TAE40116 Certificate IV in Training and Assessment
+- Graduate Diploma of Education (Training and Development)
+- TAE40116 Certificate IV in Training and Assessment
 
 ## Career
 
@@ -20,7 +20,7 @@ My career includes the following (not in order):
 - Software Developer
 - Lecturer
 
-### Roles
+### Roles🧑‍💻🙋
 
 In these positions, Adrian performed a variety of roles including:
 
@@ -34,7 +34,7 @@ In these positions, Adrian performed a variety of roles including:
 - Hardware and Software Support
 
 
-## Interests and Recreation
+## Interests and Recreation 🏑🧑‍🎨🧑‍💻
 
 There are many aspects to Adrian as a person. Some of his interests include:
 
