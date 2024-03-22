@@ -2,9 +2,11 @@
 
 Here is a little about Adrian aka @AdyGCode.
 
-This profile was started 2024-03-12.
+This profile was started on 12th March 2024.
 
 ## Education 👨‍🎓
+
+Adrian is a lifelong learner, with the following qualifications and certifications:
 
 - Bachelor of Science (Hons) Computer Science
 - Graduate Diploma of Education (Training and Development)
@@ -12,9 +14,9 @@ This profile was started 2024-03-12.
 
 ## Career 🧑‍🏫🧑‍💻
 
-My career includes the following (not in order):
+His career includes the following (not in order):
 
-- Manager Business, IT and Accounting
+- Manager Business, IT and Accounting team
 - Level 2 Technical Support
 - Advanced Skills Lecturer
 - Software Developer
@@ -24,14 +26,15 @@ My career includes the following (not in order):
 
 In these positions, Adrian performed a variety of roles including:
 
-- Lecturer & Trainer
-- Front-End and Back-End Web Development
-- Software Development
-- Internet of Things Development
-- Content Development
-- Curriculum Development
-- Systems Management
-- Hardware and Software Support
+- Lecturer, trainer and mentor
+- Front-end and Back-end web development
+- Software development
+- Internet of Things development
+- Content development
+- Curriculum development
+- Systems management
+- Hardware, network and software support
+- LAN and Internet service implementation
 
 
 ## Interests and Recreation 🏑🧑‍🎨🧸🃏🎧💻📸🥣
@@ -39,8 +42,8 @@ In these positions, Adrian performed a variety of roles including:
 There are many aspects to Adrian as a person. Some of his interests include:
 
 - Photography
-- Field Hockey
-- Board Games
+- Field hockey
+- Board games
 - Cooking
 - Computers
 - Music
