@@ -7,8 +7,8 @@ This profile was started 2024-03-12.
 ## Education
 
 - Bachelor of Science (Hons) Computer Science
-- Graduate Diploma of Education (Training and Development)
-- TAE40116 Certificate IV in Training and Assessment
+  - Graduate Diploma of Education (Training and Development)
+  - TAE40116 Certificate IV in Training and Assessment
 
 ## Career
 
