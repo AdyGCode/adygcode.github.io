@@ -4,13 +4,13 @@ Here is a little about Adrian aka @AdyGCode.
 
 This profile was started 2024-03-12.
 
-## Education
+## Education 👨‍🎓
 
 - Bachelor of Science (Hons) Computer Science
 - Graduate Diploma of Education (Training and Development)
 - TAE40116 Certificate IV in Training and Assessment
 
-## Career
+## Career 🧑‍🏫🧑‍💻
 
 My career includes the following (not in order):
 
@@ -34,7 +34,7 @@ In these positions, Adrian performed a variety of roles including:
 - Hardware and Software Support
 
 
-## Interests and Recreation 🏑🧑‍🎨🧑‍💻
+## Interests and Recreation 🏑🧑‍🎨🧸🃏🎧💻📸🥣
 
 There are many aspects to Adrian as a person. Some of his interests include:
 
